@@ -19,6 +19,18 @@ sites:
     url: https://benefit.api.compensa.dev/healthcheck
   - name: Reward UAT API
     url: https://reward.api.compensa.dev/healthcheck
+    
+status-website:
+  # baseUrl: /your-repo-name
+  logoUrl: https://uploads-ssl.webflow.com/622ab4cf82f5c680e39e3826/622ab94082f5c6aeb29e5916_Compensa-final-logo-11.svg
+  name: Compensa
+  introTitle: "**Compensa status monitoring** for dev and prod services."
+  introMessage: 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
