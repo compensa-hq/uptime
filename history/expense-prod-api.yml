@@ -1,7 +1,7 @@
 url: https://expense.api.compensa.io/healthcheck
 status: up
 code: 200
-responseTime: 906
-lastUpdated: 2022-04-25T23:05:39.442Z
+responseTime: 119
+lastUpdated: 2022-04-26T23:05:42.325Z
 startTime: Sun Apr 24 2022 08:08:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
