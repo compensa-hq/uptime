@@ -76,19 +76,19 @@
     "url": "https://account.api.compensa.dev/healthcheck",
     "icon": "https://favicons.githubusercontent.com/account.api.compensa.dev",
     "slug": "account-uat-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 325,
-    "timeDay": 370,
-    "timeWeek": 325,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 316,
+    "timeDay": 310,
+    "timeWeek": 316,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2022-04-29": 1
+      "2022-04-29": 16
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://expense.api.compensa.dev/healthcheck",
     "icon": "https://favicons.githubusercontent.com/expense.api.compensa.dev",
     "slug": "expense-uat-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 340,
-    "timeDay": 359,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 319,
+    "timeDay": 266,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2022-04-29": 1
+      "2022-04-29": 15
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://benefit.api.compensa.dev/healthcheck",
     "icon": "https://favicons.githubusercontent.com/benefit.api.compensa.dev",
     "slug": "benefit-uat-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 264,
-    "timeDay": 348,
-    "timeWeek": 264,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 249,
+    "timeDay": 245,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-04-29": 1
+      "2022-04-29": 15
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://reward.api.compensa.dev/healthcheck",
     "icon": "https://favicons.githubusercontent.com/reward.api.compensa.dev",
     "slug": "reward-uat-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 293,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 285,
+    "timeDay": 262,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2022-04-29": 0
+      "2022-04-29": 14
     }
   }
 ]
