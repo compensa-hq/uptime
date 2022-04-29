@@ -76,17 +76,17 @@
     "url": "https://account.api.compensa.dev/healthcheck",
     "icon": "https://favicons.githubusercontent.com/account.api.compensa.dev",
     "slug": "account-uat-api",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 316,
-    "timeDay": 310,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 324,
+    "timeDay": 338,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2022-04-29": 16
     }
@@ -117,19 +117,17 @@
     "icon": "https://favicons.githubusercontent.com/benefit.api.compensa.dev",
     "slug": "benefit-uat-api",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 245,
     "timeWeek": 249,
     "timeMonth": 249,
     "timeYear": 249,
-    "dailyMinutesDown": {
-      "2022-04-29": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reward UAT API",
@@ -137,18 +135,16 @@
     "icon": "https://favicons.githubusercontent.com/reward.api.compensa.dev",
     "slug": "reward-uat-api",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 262,
     "timeWeek": 285,
     "timeMonth": 285,
     "timeYear": 285,
-    "dailyMinutesDown": {
-      "2022-04-29": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
