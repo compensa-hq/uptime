@@ -76,19 +76,19 @@
     "url": "https://account.api.compensa.dev/healthcheck",
     "icon": "https://favicons.githubusercontent.com/account.api.compensa.dev",
     "slug": "account-uat-api",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 324,
-    "timeDay": 338,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 329,
+    "timeDay": 347,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {
-      "2022-04-29": 16
+      "2022-04-29": 56
     }
   },
   {
