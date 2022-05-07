@@ -5,6 +5,8 @@ repo: Compensa # The name of this repository
 sites:
   - name: Account PROD API
     url: https://account.api.compensa.io/healthcheck
+    expectedStatusCodes:
+      - 200
   - name: Expense PROD API
     url: https://expense.api.compensa.io/healthcheck
   - name: Benefit PROD API
@@ -13,6 +15,8 @@ sites:
     url: https://reward.api.compensa.io/healthcheck
   - name: Account UAT API
     url: https://account.api.compensa.dev/healthcheck
+    expectedStatusCodes:
+      - 200
   - name: Expense UAT API
     url: https://expense.api.compensa.dev/healthcheck
   - name: Benefit UAT API
