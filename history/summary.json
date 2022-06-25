@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/account.api.compensa.io",
     "slug": "account-prod-api",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 390,
-    "timeDay": 147,
-    "timeWeek": 260,
-    "timeMonth": 251,
-    "timeYear": 390,
+    "uptimeYear": "99.80%",
+    "time": 386,
+    "timeDay": 165,
+    "timeWeek": 246,
+    "timeMonth": 249,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2022-05-01": 180
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 156,
-    "timeWeek": 246,
-    "timeMonth": 227,
-    "timeYear": 230,
+    "time": 228,
+    "timeDay": 102,
+    "timeWeek": 224,
+    "timeMonth": 222,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 102,
-    "timeWeek": 235,
-    "timeMonth": 230,
-    "timeYear": 217,
+    "time": 216,
+    "timeDay": 125,
+    "timeWeek": 222,
+    "timeMonth": 226,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 156,
-    "timeWeek": 252,
-    "timeMonth": 219,
-    "timeYear": 213,
+    "time": 211,
+    "timeDay": 81,
+    "timeWeek": 227,
+    "timeMonth": 215,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 280,
-    "timeDay": 365,
-    "timeWeek": 336,
-    "timeMonth": 292,
-    "timeYear": 280,
+    "time": 279,
+    "timeDay": 237,
+    "timeWeek": 334,
+    "timeMonth": 291,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2022-04-29": 56
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 263,
-    "timeDay": 209,
-    "timeWeek": 275,
-    "timeMonth": 285,
-    "timeYear": 263,
+    "time": 261,
+    "timeDay": 128,
+    "timeWeek": 262,
+    "timeMonth": 281,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2022-04-29": 15
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 205,
-    "timeWeek": 285,
-    "timeMonth": 261,
-    "timeYear": 245,
+    "time": 243,
+    "timeDay": 132,
+    "timeWeek": 272,
+    "timeMonth": 260,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 160,
-    "timeWeek": 261,
-    "timeMonth": 250,
-    "timeYear": 247,
+    "time": 245,
+    "timeDay": 110,
+    "timeWeek": 247,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   }
 ]
